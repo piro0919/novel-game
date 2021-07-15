@@ -1,0 +1,19 @@
+.wrapper {
+  color: #fff;
+  background: rgba(#000, 0.5);
+  border: 4px solid #000;
+  border-radius: 4px;
+  font-size: 32px;
+  height: 40%;
+  max-height: 200px;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.button {
+  bottom: 0;
+  padding: 4px 16px;
+  position: absolute;
+  right: 0;
+}

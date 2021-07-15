@@ -1,0 +1,23 @@
+.wrapper {
+  align-items: center;
+  background: url("./images/130899907147216200719_BG14a_1280.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.buttonsWrapper {
+  display: grid;
+  gap: 24px;
+  grid-template: repeat(3, auto) / auto;
+  justify-content: center;
+}
+
+.button {
+  background: #000;
+  color: #fff;
+  font-size: 24px;
+  padding: 4px 32px;
+}
