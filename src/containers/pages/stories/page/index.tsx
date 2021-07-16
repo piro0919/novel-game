@@ -29,7 +29,9 @@ function Page(): JSX.Element {
 
   useEffect(() => {
     const callback = async () => {
-      const { data } = await axios.get(`/jsons/${page}.json`);
+      const { data } = await axios.get(
+        `${process.env.PUBLIC_URL}/jsons/${page}.json`
+      );
 
       setTexts(data);
       setTextNumber(parseInt(page, 10));
