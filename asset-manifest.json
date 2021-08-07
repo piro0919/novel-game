@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/novel-game/static/css/main.9edee3d5.chunk.css",
-    "main.js": "/novel-game/static/js/main.ab30502a.chunk.js",
-    "main.js.map": "/novel-game/static/js/main.ab30502a.chunk.js.map",
-    "runtime-main.js": "/novel-game/static/js/runtime-main.a30d7e37.js",
-    "runtime-main.js.map": "/novel-game/static/js/runtime-main.a30d7e37.js.map",
+    "main.js": "/novel-game/static/js/main.d1663df4.chunk.js",
+    "main.js.map": "/novel-game/static/js/main.d1663df4.chunk.js.map",
+    "runtime-main.js": "/novel-game/static/js/runtime-main.862c4d03.js",
+    "runtime-main.js.map": "/novel-game/static/js/runtime-main.862c4d03.js.map",
     "static/css/2.d1db154c.chunk.css": "/novel-game/static/css/2.d1db154c.chunk.css",
-    "static/js/2.ef6460bf.chunk.js": "/novel-game/static/js/2.ef6460bf.chunk.js",
-    "static/js/2.ef6460bf.chunk.js.map": "/novel-game/static/js/2.ef6460bf.chunk.js.map",
-    "static/js/3.08bdd142.chunk.js": "/novel-game/static/js/3.08bdd142.chunk.js",
-    "static/js/3.08bdd142.chunk.js.map": "/novel-game/static/js/3.08bdd142.chunk.js.map",
+    "static/js/2.9665c436.chunk.js": "/novel-game/static/js/2.9665c436.chunk.js",
+    "static/js/2.9665c436.chunk.js.map": "/novel-game/static/js/2.9665c436.chunk.js.map",
+    "static/js/3.99dc2408.chunk.js": "/novel-game/static/js/3.99dc2408.chunk.js",
+    "static/js/3.99dc2408.chunk.js.map": "/novel-game/static/js/3.99dc2408.chunk.js.map",
+    "static/js/4.e908ee61.chunk.js": "/novel-game/static/js/4.e908ee61.chunk.js",
+    "static/js/4.e908ee61.chunk.js.map": "/novel-game/static/js/4.e908ee61.chunk.js.map",
     "index.html": "/novel-game/index.html",
     "static/css/2.d1db154c.chunk.css.map": "/novel-game/static/css/2.d1db154c.chunk.css.map",
     "static/css/main.9edee3d5.chunk.css.map": "/novel-game/static/css/main.9edee3d5.chunk.css.map",
-    "static/js/2.ef6460bf.chunk.js.LICENSE.txt": "/novel-game/static/js/2.ef6460bf.chunk.js.LICENSE.txt",
-    "static/media/style.module.scss": "/novel-game/static/media/130900228134316404352_BG28a_1280.f592b1b3.jpg"
+    "static/js/2.9665c436.chunk.js.LICENSE.txt": "/novel-game/static/js/2.9665c436.chunk.js.LICENSE.txt",
+    "static/js/3.99dc2408.chunk.js.LICENSE.txt": "/novel-game/static/js/3.99dc2408.chunk.js.LICENSE.txt",
+    "static/media/style.module.scss": "/novel-game/static/media/130900228134316404352_BG28a_1280.f592b1b3.jpg",
+    "static/media/14941.e2e35172.mp3": "/novel-game/static/media/14941.e2e35172.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.a30d7e37.js",
+    "static/js/runtime-main.862c4d03.js",
     "static/css/2.d1db154c.chunk.css",
-    "static/js/2.ef6460bf.chunk.js",
+    "static/js/2.9665c436.chunk.js",
     "static/css/main.9edee3d5.chunk.css",
-    "static/js/main.ab30502a.chunk.js"
+    "static/js/main.d1663df4.chunk.js"
   ]
 }
