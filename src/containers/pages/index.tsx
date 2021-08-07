@@ -1,7 +1,9 @@
-import Top from "components/templates/Top";
+import Top, { TopProps } from "components/templates/Top";
 
-function Pages(): JSX.Element {
-  return <Top />;
+export type PagesProps = Pick<TopProps, "handleStartCallback">;
+
+function Pages({ handleStartCallback }: PagesProps): JSX.Element {
+  return <Top handleStartCallback={handleStartCallback} />;
 }
 
 export default Pages;

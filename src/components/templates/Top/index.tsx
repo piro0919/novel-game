@@ -4,11 +4,21 @@ import GameWindow from "../GameWindow";
 import Transition from "../Transition";
 import styles from "./style.module.scss";
 
-function Top(): JSX.Element {
+export type TopProps = {
+  handleStartCallback?: () => void;
+};
+
+function Top({ handleStartCallback }: TopProps): JSX.Element {
   const history = useHistory();
   const handleStart = useCallback(() => {
     history.push("/stories/1");
-  }, [history]);
+
+    if (!handleStartCallback) {
+      return;
+    }
+
+    handleStartCallback();
+  }, [handleStartCallback, history]);
 
   return (
     <Transition>
